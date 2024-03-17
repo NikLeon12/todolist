@@ -98,5 +98,7 @@ ul li:after {
 }
 
 .footdown {
-	background-color: peru; position: absolute;  bottom: 0px; width: 100%;
+	background-color: peru;
+	position: absolute; 
+	bottom: 0px; width: 100%;
 }
